@@ -1,0 +1,4 @@
+#Tue Oct 31 11:36:39 ICT 2023
+base.0=C\:\\Users\\Asus\\Documents\\IU course\\MobileApp\\LabMobile\\NguyenPhuocVinhKhang_Lab04_ITITIU19017\\DroidCafeInput\\DroidCafeInput\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
